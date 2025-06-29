@@ -50,4 +50,6 @@ MONGODB_URI = MONGODB URL
 ```bash
 npm run start
 ```
-
+** screeenshort **
+![App Screenshot](https://github.com/koushal78/Assigment_07/blob/main/frontend/public/Screenshot%202025-06-29%20093306.png)
+![App Screenshot](https://github.com/koushal78/Assigment_07/blob/main/frontend/public/Screenshot%202025-06-29%20093320.png)
